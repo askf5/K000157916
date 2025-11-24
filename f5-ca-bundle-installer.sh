@@ -5,7 +5,7 @@
 
 
 BUNDLE_NAME="f5-ca-bundle-new.crt"
-CERT_URL="https://raw.githubusercontent.com/kevingstewart/cert-test/refs/heads/main/updated-ca-bundle.crt"
+CERT_URL="https://raw.githubusercontent.com/askf5/K000157916/main/updated-ca-bundle.crt"
 
 ## Test for interactive shell
 if [ -t 0 ]; then interactive=1; else interactive=0; fi
